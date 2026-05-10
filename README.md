@@ -17,21 +17,19 @@ $$Area = \frac{1}{2} \cdot a \cdot b \cdot \sin(\theta)$$
 *   **Entrada:** Várias linhas contendo três números reais ($a$, $b$ e $\theta$). O programa encerra a leitura ao receber a entrada `0 0 0`.
 *   **Saída:** A área calculada impressa com precisão de 4 casas decimais.
 
-**Exemplo:**
-> **Entrada:**
-> 
-> 3.00 4.00 90.00
-> 
-> 5.00 7.00 60.00
-> 
-> 0 0 0
->
-> **Saída**
-> 
-> 6.0000
-> 
-> 15.1554
+## 📥 Exemplo de Entrada
 
+```text
+3.00 4.00 90.00
+5.00 7.00 60.00
+0 0 0
+```
+## 📥 Exemplo de Saída
+
+```text
+6.0000
+15.1554
+```
 ---
 
 ## 🏗️ Arquitetura e Padrões Aplicados
