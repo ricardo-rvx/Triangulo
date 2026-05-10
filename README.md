@@ -1,4 +1,4 @@
-# 🚀 Triangulação Espacial - Clean Architecture & SOLID
+# 🚀 Triangulação Espacial - InterFatecs 2025(Problema E)
 
 Este projeto resolve o desafio de algoritmo "Problema E - Triangulo". Mais do que apenas encontrar a solução matemática, o objetivo principal deste repositório é servir como um laboratório prático para a aplicação dos princípios de **Clean Architecture** e **SOLID** em Java, estruturando uma solução simples com padrões de sistemas escalonáveis. 
 
